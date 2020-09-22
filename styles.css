@@ -2,8 +2,9 @@ body{
   margin-left: 20%;
   margin-right: 20%;
   font-family: 'Open Sans', sans-serif;
-  background-color: #E4BFF8 ;
-
+  background-color: #EAEDF8 ;
+  text-align: left;
+  font-size: 1em;
 }
 
 h1{
@@ -11,7 +12,7 @@ h1{
 }
 .background-text-box{
   /* orange */
-  background-color: #BCDEF6 ;
+  background-color: #F8E8EC ;
 }
 
 p{
@@ -33,6 +34,6 @@ h6{
 img{
   width=80%
 }
-figcaption{
-  color: #9CA1A4
+figure{
+  color: #999EA2 ;
 }
